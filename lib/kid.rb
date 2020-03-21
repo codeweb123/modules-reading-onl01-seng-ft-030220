@@ -10,7 +10,7 @@ class Kid
     @name = name
   end
 
-  class Dancer
+  class Kid
   extend MetaDancing
 end
 
